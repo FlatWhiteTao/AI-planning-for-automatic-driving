@@ -1,0 +1,2 @@
+# AI-planning-for-automatic-driving
+the City of Melbourne has developed a simplified simulation of a road network, including traffic lights, signage and buildings. The simulation currently allows manual driving of cars, but nothing further. Working as a team, your task is to design and implement one of three subsystems required to build and run the self-driving car. The City of Melbourne will be combining your work with another two contracted teams to realise the full self driving car experience, and test different combinations within the simulated environment.
